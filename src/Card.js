@@ -71,7 +71,7 @@ export default function Cards() {
                         <Row>
                             <Col><a className="text-info" href="https://wa.me/+2348085302464" target="_blank" rel="noopener npreferrer"><h2><Icon.Whatsapp/></h2></a></Col>
                             <Col><a className="text-info" href="#" target="_blank"><h2><Icon.Facebook/></h2></a></Col>
-                            <Col><a className="text-info" href="#" target="_blank"><h2><Icon.Instagram/></h2></a></Col>
+                            <Col><a className="text-info" href="https://twitter.com/blakeobik" target="_blank"><h2><Icon.Twitter/></h2></a></Col>
                         </Row>
                     </Container>                
                 </div>
