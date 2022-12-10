@@ -22,9 +22,9 @@ export default function Cards() {
                     <h2 class="card-title text-white">Fab Solar Technology</h2>                    
                     <Row>
                         <Col>
-                            <h5> <Icon.TelephoneFill className='text-info'/> +234 808 530 2464</h5>
+                            <p><Icon.TelephoneFill className='text-info'/> +234 808 530 2464</p>
                             
-                             <h5><Icon.EnvelopeFill className='text-info'/> fabsolartechnologies@gmail.com</h5>
+                             <p><Icon.EnvelopeFill className='text-info'/> fabsolartechnologies@gmail.com</p>
                         </Col>                    
                     </Row><br/><br/>
                     
@@ -70,8 +70,7 @@ export default function Cards() {
                     <Container>
                         <Row>
                             <Col><a className="text-info" href="https://wa.me/+2348085302464" target="_blank" rel="noopener npreferrer"><h2><Icon.Whatsapp/></h2></a></Col>
-                            <Col><a className="text-info" href="#" target="_blank"><h2><Icon.Facebook/></h2></a></Col>
-                            <Col><a className="text-info" href="https://twitter.com/blakeobik" target="_blank"><h2><Icon.Twitter/></h2></a></Col>
+                            <Col><a className="text-info" href="https://www.instagram.com/fabsolartech/" target="_blank"><h2><Icon.Instagram/></h2></a></Col>                            
                         </Row>
                     </Container>                
                 </div>
