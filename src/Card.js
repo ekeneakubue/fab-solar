@@ -22,9 +22,9 @@ export default function Cards() {
                     <h2 class="card-title text-white">Fab Solar Technology</h2>                    
                     <Row>
                         <Col>
-                            <Icon.TelephoneFill className='text-info'/> +234 808 530 2464
-                            &nbsp; &nbsp;
-                            <Icon.EnvelopeFill className='text-info'/> fabsolartechnologies@gmail.com
+                            <h5> <Icon.TelephoneFill className='text-info'/> +234 808 530 2464</h5>
+                            
+                             <h5><Icon.EnvelopeFill className='text-info'/> fabsolartechnologies@gmail.com</h5>
                         </Col>                    
                     </Row><br/><br/>
                     
